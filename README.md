@@ -1,74 +1,68 @@
-**Privacy Policy — Smart Task Manager**
+# Privacy Policy — Smart Task Manager
 
-*Last updated: [insert date]*
+**Last updated:** October 26, 2025  
 
-Smart Task Manager built this app as a free productivity tool. This SERVICE is provided at no cost and is intended for use as is.
-
-### Information Collection and Use
-
-We do not collect or store any personal information from users. The app may request basic permissions (such as Internet access or storage) only for its functionality — no personal data is shared with third parties.
-
-### Log Data
-
-If an error occurs in the app, we may collect data and information (through third-party tools) such as your device name, operating system version, app configuration, and the time/date of the error.
-
-### Cookies
-
-This app does not use cookies directly.
-
-### Service Providers
-
-We may use third-party services (like Google Play Services, AdMob, or Analytics) that may collect limited data as per their privacy policies.
-
-### Security
-
-We value your trust in providing us your information, thus we strive to use commercially acceptable means of protecting it.
-
-### Links to Other Sites
-
-This app may contain links to external sites. If you click on a third-party link, you will be directed to that site. We advise you to review their Privacy Policy as well.
-
-### Changes to This Policy
-
-This Privacy Policy may be updated from time to time. We recommend checking this page periodically for any changes.
-
-**Contact Us**
-If you have any questions about our Privacy Policy, contact us at:
-[Your email address]
+Smart Task Manager built this app as a free productivity tool.  
+This SERVICE is provided at no cost and is intended for use as is.  
 
 ---
 
-**پرائیویسی پالیسی — سمارٹ ٹاسک منیجر**
+## Information Collection and Use  
+Smart Task Manager may collect limited information to ensure proper app functionality, analytics, developer communication, fraud prevention, security, and compliance.  
 
-*آخری اپڈیٹ: [تاریخ لکھیں]*
+The following data types may be collected through third-party services (such as Google Play Services, AdMob, or Firebase Analytics):  
+- **User IDs** (optional)  
+- **Crash logs and diagnostics**  
+- **Device or other IDs**  
 
-Smart Task Manager ایک مفت ایپ ہے جو صرف ٹاسک منیجمنٹ اور پروڈکٹیویٹی کے لیے بنائی گئی ہے۔
-یہ ایپ کسی قسم کی ذاتی معلومات جمع نہیں کرتی۔
+All data collected is used **only for legitimate app purposes**, as described above.  
+We **do not share** any personal information with other companies or organizations.  
 
-### معلومات کا استعمال
+---
 
-یہ ایپ صرف وہی اجازتیں مانگتی ہے جو اس کی درست کارکردگی کے لیے ضروری ہوں (جیسے انٹرنیٹ یا اسٹوریج)۔ کوئی ذاتی ڈیٹا کسی تیسرے فریق کے ساتھ شیئر نہیں کیا جاتا۔
+## Data Security  
+All user data transmitted by the app is **encrypted in transit** using secure protocols (HTTPS).  
+We follow commercially acceptable standards to protect your data.  
 
-### ایرر لاگ
+---
 
-اگر ایپ میں کوئی خرابی آئے، تو سسٹم خود بخود کچھ غیر ذاتی معلومات جمع کر سکتا ہے جیسے ڈیوائس کا نام، ورژن، وقت اور تاریخ۔
+## Data Deletion  
+Users can request deletion of their account and associated data by submitting a request through the following form:  
+🔗 [Request Data Deletion](https://docs.google.com/forms/d/e/1FAIpQLScTF9pffSIroUbDQF0XXFTPoGKv07vAQz9dSZKbeRL33ehylA/viewform?usp=dialog)  
 
-### کوکیز
+Data may also be automatically deleted over time, as described in this policy.  
 
-یہ ایپ کوکیز استعمال نہیں کرتی۔
+---
 
-### دیگر سروسز
+## Third-Party Services  
+The app uses the following third-party services that may collect data as per their own privacy policies:  
+- [Google Play Services](https://policies.google.com/privacy)  
+- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)  
+- [Firebase Analytics](https://firebase.google.com/support/privacy)  
 
-ایپ میں تھرڈ پارٹی سروسز (جیسے Google Play Services یا AdMob) شامل ہو سکتی ہیں جو اپنی پالیسی کے مطابق محدود ڈیٹا جمع کرتی ہیں۔
+We recommend reviewing their privacy policies for more details.  
 
-### سیکیورٹی
+---
 
-ہم آپ کے ڈیٹا کی حفاظت کے لیے مناسب طریقے استعمال کرتے ہیں۔
+## Links to Other Sites  
+This app may contain links to external sites. If you click on a third-party link, you will be directed to that site.  
+We strongly advise you to review the Privacy Policy of these websites.  
 
-### پالیسی میں تبدیلی
+---
 
-یہ پالیسی وقتاً فوقتاً اپڈیٹ ہو سکتی ہے۔ براہ کرم باقاعدگی سے چیک کرتے رہیں۔
+## Geo-blocking Regulation (EU) 2018/302  
+This app complies with the EU Geo-blocking Regulation.  
+It does not restrict access or discriminate between users based on their country within the European Union.  
 
-**رابطہ**
-اگر آپ کو کوئی سوال ہے تو ہمیں ای میل کریں:
-[اپنا ای میل ایڈریس لکھیں]
+---
+
+## Changes to This Policy  
+This Privacy Policy may be updated periodically.  
+Users are advised to review this page regularly for any changes.  
+Updates will be effective immediately after they are posted.  
+
+---
+
+## Contact Us  
+If you have any questions or suggestions about this Privacy Policy, please contact us at:  
+📧 **abbas_abid69@yahoo.com**
